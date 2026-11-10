@@ -1,0 +1,5 @@
+ibm-watsonx-ai==1.3.39
+Flask 
+langchain-ibm 
+langchain
+
